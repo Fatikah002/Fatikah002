@@ -40,8 +40,6 @@
 
 ---
 
-## 📊 GitHub Summary
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fatikah002&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fatikah002&theme=tokyonight"/>
