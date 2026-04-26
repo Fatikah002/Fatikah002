@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Fatikah Salsabilla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Web+Developer;UI%2FUX+Designer;Frontend+Enthusiast;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Enthusiast;" />
 </p>
 
 ---
