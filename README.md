@@ -7,7 +7,7 @@
 ---
 
 ## 🌸 About Me
-💡I am an Information Technology student focused on Web Development and UI/UX Design, passionate about building functional and visually appealing applications.
+💡I am an Information Technology student focused on UI/UX Design and Front-End Development, passionate about building functional and visually appealing applications.
 
 🎯 Focused on **FrontEnd Development, UI/UX Design**  
 🎨 Interested in **UI/UX Design, Front-End Development, and Mobile App Development**  
