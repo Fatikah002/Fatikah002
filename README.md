@@ -24,9 +24,9 @@
 ## 🚀 Featured Projects
 
 ### 💻 Web Development
-- 🌿 **LaporSana** → Campus facility reporting system (Laravel)  
-- 🧴 **SkinRate** → Skincare review & rating platform (PHP Native)  
-- 🏘️ **Warga App** → Community data management system (Firebase)  
+- 🌿 **LaporSana** → Campus facility reporting system  
+- 🧴 **SkinRate** → Skincare review & rating platform 
+- 🏘️ **Warga App** → Community data management system
 
 ### 📱 UI/UX Design
 - 🍭 **SugarWise** → Sugar intake monitoring app  
